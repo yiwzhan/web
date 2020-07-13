@@ -68,13 +68,14 @@
 
     <div class="right_section">
       <div class="common_content">
-        <h2>Gallery</h2>
+        <h2>Today's Theme</h2>
         <hr>
-        <p>Andrew and Bryan is having the first summer vacation completely at home due to covid-19</p>
+        <p>Happy Birthday, Xiang!</p>
+	      <img src=“/images/Happy-Birthday-card.jpg" width="450" height = '347" alt = "picture of birthday" title = "birthday" />
         <br>
         <p><a href="#">Read more</a></p>
         <hr>
-        <p>To better arrange the daily activities, they will need to follow some basic principles</p><br>
+        <p>Andrew and Bryan is having the first summer vacation completely at home due to covid-19. To better arrange the daily activities, they will need to follow some basic principles</p><br>
         <ul>
         <li>Curious</li>
         <li>Hardworking</li>
